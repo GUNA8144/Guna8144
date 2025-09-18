@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com" style="text-decoration:none;">:e-mail: guna8144@example.com</a> |
+  <a href="mailto:your-email@example.com" style="text-decoration:none;">:e-mail: gunasekaranathiyappan69@gmail.com</a> |
   <a href="https://linkedin.com/in/gunasekaran8144" target="_blank" style="text-decoration:none;">:link: linkedin.com/in/gunasekaran8144</a> |
   <a href="https://github.com/GUNA8144" target="_blank" style="text-decoration:none;">:computer: github.com/GUNA8144</a>
 </p>
