@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Gunasekaran .A </h1>
+<h1 align="center">Hi, I'm Gunasekaran . A </h1>
 <p align="center">
-  <em>QA Engineer | Manual & Automation Testing Expert | Passionate About Bug-Free Software</em>
+  <em>QA Engineer | Manual & Automation Testing  | Passionate About Bug-Free Software</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@ Hello! I'm **Gunasekaran A**, a passionate **QA Engineer** based in **Chennai**,
 I am currently working at **Xmedia Solutions** and actively expanding my skills in both **manual testing** and **test automation**.
 
 **Technologies I work with**:
-- **Programming Languages**: Java, Python
+- **Programming Languages**: Java
 - **Test Automation**: Selenium 
 - **CI/CD**:  GitHub Actions
 - **API Testing**: Postman, J METER
@@ -46,7 +46,7 @@ Currently, I'm diving deeper into **CI/CD pipelines** and exploring ways to inte
 - **CI/CD Pipelines**:  GitHub Actions
 - **Version Control**: Git, GitHub
 - **Bug Tracking**: Jira, Taiga , Alm
-- **Performance Testing**: JMeter,postman
+- **Performance Testing**: J Meter,postman
 
 ---
 
