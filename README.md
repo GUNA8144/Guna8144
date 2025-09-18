@@ -54,7 +54,7 @@ Currently, I'm diving deeper into **CI/CD pipelines** and exploring ways to inte
 
 I'm always open to connecting with like-minded individuals in the **QA/Testing** community. Feel free to reach out to me via:
 
-- **Email**: [guna8144@example.com](mailto:guna8144@example.com)
+- **Email**: [guna8144@example.com](mailto:gunasekaranathiyappan69@gmail.com)
 - **LinkedIn**: [Gunasekaran A](https://linkedin.com/in/gunasekaran8144)
 - **GitHub**: [GUNA8144](https://github.com/GUNA8144)
 
