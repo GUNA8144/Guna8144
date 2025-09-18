@@ -18,9 +18,9 @@ I am currently working at **Xmedia Solutions** and actively expanding my skills 
 
 **Technologies I work with**:
 - **Programming Languages**: Java, Python
-- **Test Automation**: Selenium, Appium, Playwright
-- **CI/CD**: Jenkins, GitHub Actions
-- **API Testing**: Postman, RestAssured
+- **Test Automation**: Selenium 
+- **CI/CD**:  GitHub Actions
+- **API Testing**: Postman, J METER
 
 Currently, I'm diving deeper into **CI/CD pipelines** and exploring ways to integrate **AI** into testing workflows.
 
@@ -41,12 +41,12 @@ Currently, I'm diving deeper into **CI/CD pipelines** and exploring ways to inte
 
 ### :zap: Skills & Expertise
 
-- **Manual Testing**: Test case design, exploratory testing, regression testing
-- **Automation Testing**: Selenium WebDriver, Playwright, API Testing (Postman, RestAssured)
-- **CI/CD Pipelines**: Jenkins, GitHub Actions
-- **Version Control**: Git, GitHub, Bitbucket
-- **Bug Tracking**: Jira, Bugzilla
-- **Performance Testing**: JMeter (basic)
+- **Manual Testing**: Test case design, exploratory testing, regression testing , Defect tracking 
+- **Automation Testing**: Selenium WebDriver, API Testing (Postman)
+- **CI/CD Pipelines**:  GitHub Actions
+- **Version Control**: Git, GitHub
+- **Bug Tracking**: Jira, Taiga , Alm
+- **Performance Testing**: JMeter,postman
 
 ---
 
@@ -64,7 +64,7 @@ I'm always open to connecting with like-minded individuals in the **QA/Testing**
 
 I am passionate about contributing to the **open-source community** and love working on test automation projects. Here's a quick look at my contribution activity over the past year:
 
-![Contribution Graph](https://ghchart.rshah.org/GUNA8144)
+
 
 ---
 
@@ -79,9 +79,9 @@ Here's a glimpse of my most recent work and contributions:
 
 ### :bookmark_tabs: Favorite Tools & Technologies
 
-- **Languages**: Java, Python
-- **Frameworks**: Selenium WebDriver, TestNG, JUnit, RestAssured
-- **Tools**: Postman, JMeter, GitHub Actions, Jenkins
+- **Languages**: Java
+- **Frameworks**: Selenium WebDriver, TestNG, 
+- **Tools**: Postman, JMeter, GitHub Actions, 
 - **Version Control**: Git, GitHub
 
 ---
