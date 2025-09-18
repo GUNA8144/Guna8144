@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gunasekaran A :wave!</h1>
+<h1 align="center">Hi, I'm Gunasekaran .A </h1>
 <p align="center">
   <em>QA Engineer | Manual & Automation Testing Expert | Passionate About Bug-Free Software</em>
 </p>
