@@ -61,11 +61,11 @@ I am currently working at **Xmedia Solutions** and actively expanding my skills 
 ### :bar_chart: Projects
 
 - **[E-commercial-Application](https://github.com/GUNA8144/Amazon-Ecommerce-Automation-Scripts)**  
-Position: QA Automation Engineer
-Frameworks & Tools: Selenium WebDriver, TestNG, Java
-Summary: The Amazon application is a leading e-commerce platform with modules like User Login, Product Search, Shopping Cart, and Checkout.
-Using Selenium automation, testers validate key workflows such as login, product search, adding to cart, and placing orders across browsers and devices.
-This automation improves reliability, reduces manual effort, and ensures a seamless online shopping experience.
+- Position: QA Automation Engineer
+- Frameworks & Tools: Selenium WebDriver, TestNG, Java
+- Summary: The Amazon application is a leading e-commerce platform with modules like User Login, Product Search, Shopping Cart, and Checkout.
+   Using Selenium automation, testers validate key workflows such as login, product search, adding to cart, and placing orders across browsers and devices.
+   This automation improves reliability, reduces manual effort, and ensures a seamless online shopping experience.
 
 
 ---
