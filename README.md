@@ -49,7 +49,7 @@ This is essential for maintaining a smooth and consistent user experience in lar
 
 ---
 
-### :memo: Let's Connect!
+### :📞 Contact Me
 
 I'm always open to connecting with like-minded individuals in the **QA/Testing** community. Feel free to reach out to me via:
 
