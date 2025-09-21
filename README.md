@@ -18,7 +18,7 @@ I am currently working at **Xmedia Solutions** and actively expanding my skills 
 
 ---
 
-### Technical Skills
+### Technical Skills & Technologies
 
 | #  | Programming & Tools                                              | Testing Frameworks & Tools                                                                                                  | CI/CD Pipeline                                                   |
 |----|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
