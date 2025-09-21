@@ -29,7 +29,12 @@ I am currently working at **Xmedia Solutions** and actively expanding my skills 
 ### :bar_chart: Popular Repositories
 
 - **[E-commercial-Application](https://github.com/GUNA8144/Amazon-Ecommerce-Automation-Scripts)**  
- Amazon application includes key modules like Login, Product Search, Cart, and Checkout. Selenium automation tests user actions like searching products, adding to cart, and completing orders.
+ The Amazon application is a widely used e-commerce platform that includes key modules such as User Login, Product Search, Shopping Cart, and Checkout.
+Each module plays a critical role in the online shopping experience, allowing users to securely sign in, browse items, and manage their purchases.
+Using Selenium automation, testers can simulate real user actions like searching for products, filtering results, adding items to the cart, and placing orders.
+Automation ensures these core features work correctly across different browsers and devices.
+It also helps identify bugs early, reduces manual testing time, and improves the reliability of the application.
+This is essential for maintaining a smooth and consistent user experience in large-scale applications like Amazon.
 
 ---
 
