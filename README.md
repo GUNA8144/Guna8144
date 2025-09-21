@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gunasekaran . A </h1>
 <p align="center">
-  <em>QA Engineer | Manual & Automation Testing  | Passionate About Bug-Free Software</em>
+  <em>QA Engineer | Manual & Automation Testing  | Passionate About Bug-Free Softwares</em>
 </p>
 
 <p align="center">
