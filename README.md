@@ -16,11 +16,6 @@
 Hello! I'm **Gunasekaran A**, a passionate **QA Engineer** based in **Chennai**, India. I specialize in **Manual & Automation Testing** and have a keen eye for delivering **bug-free software**.  
 I am currently working at **Xmedia Solutions** and actively expanding my skills in both **manual testing** and **test automation**.
 
-**Technologies I work with**:
-- **Programming Languages**: Java
-- **Test Automation**: Selenium WebDriver, TestNG ,API Testing (Postman)
-- **CI/CD**:  GitHub Actions
-- **API Testing**: Postman, J METER
 
 ---
 
