@@ -22,7 +22,13 @@ I am currently working at **Xmedia Solutions** and actively expanding my skills 
 - **CI/CD**:  GitHub Actions
 - **API Testing**: Postman, J METER
 
+---
 
+### Technical Skills
+
+| Programming & Tools | Testing Frameworks & Tools | CI/CD & DevOps Tools |
+|---------------------|----------------------------|----------------------|
+| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="28"/> | <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" height="28"/> <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" height="28"/> <img src="https://img.shields.io/badge/Pytest-1A8CED?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" height="28"/> <img src="https://img.shields.io/badge/TestNG-1ABC9C?style=for-the-badge&logo=testng&logoColor=white" alt="TestNG" height="28"/> <img src="https://img.shields.io/badge/Postman-F87000?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" height="28"/> <br/>REST API Testing & Automation, POM (Page Object Model) | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" height="28"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="28"/> <br/>API Mocking & Virtualization |
 
 ---
 
@@ -63,8 +69,6 @@ I'm always open to connecting with like-minded individuals in the **QA/Testing**
 
 I am passionate about contributing to the **open-source community** and love working on Manual and  automation projects. Here's a quick look at my contribution activity over the past year:
 
-
-
 ---
 
 ### :scroll: Recent Activity
@@ -82,10 +86,6 @@ Here's a glimpse of my most recent work and contributions:
 - **Frameworks**: Selenium WebDriver, TestNG ,API Testing (Postman) 
 - **Tools**: Postman, JMeter 
 - **Version Control**: Git, GitHub
-
----
-
-
 
 ---
 
