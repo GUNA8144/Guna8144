@@ -21,9 +21,11 @@ I am currently working at **Xmedia Solutions** and actively expanding my skills 
 
 ### Technical Skills
 
-| Programming & Tools                                          | Testing Frameworks & Tools                                                                                                  | CI/CD & DevOps Tools                                             |
-|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| <img src="https://img.shields.io/badge/Java-FF6F61?style=flat-square&logo=java&logoColor=white" height="28"/>          | <img src="https://img.shields.io/badge/Selenium-3C873A?style=flat-square&logo=selenium&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/TestNG-017C75?style=flat-square&logo=testng&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Postman-FB6E00?style=flat-square&logo=postman&logoColor=white" height="28"/> <br/>REST API Testing & Automation, POM (Page Object Model) | <img src="https://img.shields.io/badge/GitHub_Actions-2081E2?style=flat-square&logo=githubactions&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" height="28"/> <br/>API Mocking & Virtualization                            |
+
+| #  | Programming & Tools                                              | Testing Frameworks & Tools                                                                                                  | CI/CD Pipeline                                                   |
+|----|-----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| 1  | <img src="https://img.shields.io/badge/Java-FF6F61?style=flat-square&logo=java&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sql&logoColor=white" height="28"/> | <img src="https://img.shields.io/badge/Selenium-3C873A?style=flat-square&logo=selenium&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/TestNG-017C75?style=flat-square&logo=testng&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/JMeter-1F9D55?style=flat-square&logo=apachejmeter&logoColor=white" height="28"/> <img src="https://img.shields.io/badge/Postman-FB6E00?style=flat-square&logo=postman&logoColor=white" height="28"/> <br/>REST API Testing & Automation, POM (Page Object Model) | <img src="https://img.shields.io/badge/GitHub_Actions-2081E2?style=flat-square&logo=githubactions&logoColor=white" height="28"/>               |
+
 
 
 ---
@@ -42,16 +44,17 @@ This is essential for maintaining a smooth and consistent user experience in lar
 
 ### :zap: Skills & Expertise
 
-- **Manual Testing**: Test case design,Functional Testing , System testing , Integration testing , exploratory testing, regression testing , Defect tracking ,SDLC , STLC ,TestCase prepartion , Scenarios writing , Prompt Testing
+- **Manual Testing**: Test case design,Functional Testing , System testing , Integration testing , exploratory testing, regression testing , Defect tracking, Prompt Testing
 - **Automation Testing**: Selenium WebDriver, TestNG ,API Testing (Postman)
 - **CI/CD Pipelines**:  GitHub Actions
 - **Version Control**: Git, GitHub
 - **Bug Tracking**: Jira, Taiga , Alm, Excel
+- **Methodologies**:Agile Scrum, STLC, SDLC, Bug Life Cycle , Defect Tracking 
 - **Performance Testing**: J Meter
-- **Operating Systems: Windows, Linux, macOS
+- **Operating System**:  Windows, Linux, macOS
 ---
 
-### :📞 Contact Me
+### :📞 Connect with Me
 
 I'm always open to connecting with like-minded individuals in the **QA/Testing** community. Feel free to reach out to me via:
 
