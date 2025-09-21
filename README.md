@@ -33,7 +33,7 @@ I am currently working at **Xmedia Solutions** and actively expanding my skills 
 
 ---
 
-### :bar_chart: Popular Repositories
+### :bar_chart:  Projects
 
 - **[E-commercial-Application](https://github.com/GUNA8144/Amazon-Ecommerce-Automation-Scripts)**  
  The Amazon application is a widely used e-commerce platform that includes key modules such as User Login, Product Search, Shopping Cart, and Checkout.
@@ -51,9 +51,9 @@ This is essential for maintaining a smooth and consistent user experience in lar
 - **Automation Testing**: Selenium WebDriver, TestNG ,API Testing (Postman)
 - **CI/CD Pipelines**:  GitHub Actions
 - **Version Control**: Git, GitHub
-- **Bug Tracking**: Jira, Taiga , Alm
-- **Performance Testing**: J Meter,postman
-
+- **Bug Tracking**: Jira, Taiga , Alm, Excel
+- **Performance Testing**: J Meter
+- **Operating Systems: Windows, Linux, macOS
 ---
 
 ### :📞 Contact Me
@@ -70,24 +70,7 @@ I'm always open to connecting with like-minded individuals in the **QA/Testing**
 
 I am passionate about contributing to the **open-source community** and love working on Manual and  automation projects. Here's a quick look at my contribution activity over the past year:
 
----
 
-### :scroll: Recent Activity
 
-Here's a glimpse of my most recent work and contributions:
-
-- **September 18, 2025**: Made a contribution to [Guna8144](https://github.com/GUNA8144/Guna8144)
-- **Ongoing Projects**: Actively working on test automation for various e-commerce applications using Selenium and Java.
-
----
-
-### :bookmark_tabs: Favorite Tools & Technologies
-
-- **Languages**: Java
-- **Frameworks**: Selenium WebDriver, TestNG ,API Testing (Postman) 
-- **Tools**: Postman, JMeter 
-- **Version Control**: Git, GitHub
-
----
 
 <h3 align="center">Thanks for visiting my GitHub profile! :smile:</h3>
