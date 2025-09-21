@@ -28,14 +28,8 @@ I am currently working at **Xmedia Solutions** and actively expanding my skills 
 
 ### :bar_chart: Popular Repositories
 
-- **[E-commercial-Application](https://github.com/GUNA8144/E-commercial-Application)**  
-  A Java-based e-commerce application for testing automation in product selection, checkout, and login functionalities.
-
-- **[www.saucedemo.com](https://github.com/GUNA8144/www.saucedemo.com)**  
-  A demo e-commerce web app used for practicing **login**, **product selection**, and **checkout** functionalities, typically used for test automation scenarios.
-
-- **[Guna8144](https://github.com/GUNA8144/Guna8144)**  
-  My personal repository containing various automation scripts, testing frameworks, and learning projects.
+- **[E-commercial-Application](https://github.com/GUNA8144/Amazon-Ecommerce-Automation-Scripts)**  
+ Amazon application includes key modules like Login, Product Search, Cart, and Checkout. Selenium automation tests user actions like searching products, adding to cart, and completing orders.
 
 ---
 
