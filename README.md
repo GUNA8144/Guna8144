@@ -41,18 +41,16 @@ I am currently working at **Xmedia Solutions** and actively expanding my skills 
 
 ### Professional Skills
 
--  Leadership
--  Problem-solving & Analytical Thinking  
+- Leadership & Mentoring
+- Problem-solving & Analytical Thinking  
 - Clear Communication
 - Team  Collaboration
-- Time Management 
-- Adaptability & Continuous Learning  
-
+- Time & Priority Management 
+- Adaptability & Flexibility
 ---
 
 ### 📞: Connect with Me
 
-I'm always open to connecting with like-minded individuals in the **QA/Testing** community. Feel free to reach out to me via:
 
 - **Email**: [gunasekaranathiyappan69@gmail.com](mailto:gunasekaranathiyappan69@gmail.com)  
 - **LinkedIn**: [Gunasekaran A](https://linkedin.com/in/gunasekaran8144)  
@@ -68,7 +66,7 @@ I'm always open to connecting with like-minded individuals in the **QA/Testing**
  Using Selenium automation, testers can simulate real user actions like searching for products, filtering results, adding items to the cart, and placing orders.  
  Automation ensures these core features work correctly across different browsers and devices.  
  It also helps identify bugs early, reduces manual testing time, and improves the reliability of the application.  
- This is essential for maintaining a smooth and consistent user experience in large-scale applications like Amazon.
+
 
 ---
 
