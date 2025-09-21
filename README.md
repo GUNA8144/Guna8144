@@ -22,7 +22,7 @@ I am currently working at **Xmedia Solutions** and actively expanding my skills 
 - **CI/CD**:  GitHub Actions
 - **API Testing**: Postman, J METER
 
-Currently, I'm diving deeper into **CI/CD pipelines** and exploring ways to integrate **AI** into testing workflows.
+
 
 ---
 
@@ -62,7 +62,7 @@ I'm always open to connecting with like-minded individuals in the **QA/Testing**
 
 ### :gear: Contribution & Open Source
 
-I am passionate about contributing to the **open-source community** and love working on test automation projects. Here's a quick look at my contribution activity over the past year:
+I am passionate about contributing to the **open-source community** and love working on Manual and  automation projects. Here's a quick look at my contribution activity over the past year:
 
 
 
@@ -86,9 +86,7 @@ Here's a glimpse of my most recent work and contributions:
 
 ---
 
-### :star: Fun Fact
 
-When I’m not testing software or automating test cases, I enjoy reading about **technology**, **software testing best practices**, and the latest **industry trends**. I also like experimenting with **AI-driven testing**.
 
 ---
 
